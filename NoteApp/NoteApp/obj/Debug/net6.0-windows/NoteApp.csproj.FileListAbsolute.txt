@@ -1,0 +1,17 @@
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.NoteTaker.resources
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.AssemblyInfo.cs
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.exe
+D:\Visual Studio\Projects\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.deps.json
+D:\Visual Studio\Projects\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.runtimeconfig.json
+D:\Visual Studio\Projects\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.dll
+D:\Visual Studio\Projects\NoteApp\NoteApp\bin\Debug\net6.0-windows\NoteApp.pdb
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.dll
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\refint\NoteApp.dll
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.pdb
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\NoteApp.genruntimeconfig.cache
+D:\Visual Studio\Projects\NoteApp\NoteApp\obj\Debug\net6.0-windows\ref\NoteApp.dll

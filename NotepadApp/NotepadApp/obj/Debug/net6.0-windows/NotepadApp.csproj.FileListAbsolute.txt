@@ -1,0 +1,17 @@
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\bin\Debug\net6.0-windows\NotepadApp.exe
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\bin\Debug\net6.0-windows\NotepadApp.deps.json
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\bin\Debug\net6.0-windows\NotepadApp.runtimeconfig.json
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\bin\Debug\net6.0-windows\NotepadApp.dll
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\bin\Debug\net6.0-windows\NotepadApp.pdb
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.csproj.AssemblyReference.cache
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.Form1.resources
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.csproj.GenerateResource.cache
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.AssemblyInfoInputs.cache
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.AssemblyInfo.cs
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.dll
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\refint\NotepadApp.dll
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.pdb
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\NotepadApp.genruntimeconfig.cache
+D:\Visual Studio\Projects\NotepadApp\NotepadApp\obj\Debug\net6.0-windows\ref\NotepadApp.dll
